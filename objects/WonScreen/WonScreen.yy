@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_ladder",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"WonScreen",
+  "eventList":[],
   "managed":true,
-  "name":"obj_ladder",
+  "name":"WonScreen",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_ladder",
-    "path":"sprites/spr_ladder/spr_ladder.yy",
+    "name":"WonBG",
+    "path":"sprites/WonBG/WonBG.yy",
   },
   "spriteMaskId":null,
   "visible":true,
