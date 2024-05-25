@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_wall",
-  "eventList":[],
+  "%Name":"obj_enemy",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_wall",
+  "name":"obj_enemy",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -21,20 +23,15 @@
   "physicsRestitution":0.1,
   "physicsSensor":false,
   "physicsShape":1,
-  "physicsShapePoints":[
-    {"x":0.0,"y":0.0,},
-    {"x":32.0,"y":0.0,},
-    {"x":32.0,"y":32.0,},
-    {"x":0.0,"y":32.0,},
-  ],
+  "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"spr_wall1",
-    "path":"sprites/spr_wall1/spr_wall1.yy",
+    "name":"spr_enemy1",
+    "path":"sprites/spr_enemy1/spr_enemy1.yy",
   },
   "spriteMaskId":null,
   "visible":true,
