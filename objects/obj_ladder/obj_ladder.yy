@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_enemy",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_ladder",
+  "eventList":[],
   "managed":true,
-  "name":"obj_enemy",
+  "name":"obj_ladder",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_enemy1",
-    "path":"sprites/spr_enemy1/spr_enemy1.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
