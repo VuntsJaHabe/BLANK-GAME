@@ -44,6 +44,7 @@
     {"id":{"name":"rm_maze","path":"rooms/rm_maze/rm_maze.yy",},},
     {"id":{"name":"spr_background1","path":"sprites/spr_background1/spr_background1.yy",},},
     {"id":{"name":"spr_enemy1","path":"sprites/spr_enemy1/spr_enemy1.yy",},},
+    {"id":{"name":"spr_ladder","path":"sprites/spr_ladder/spr_ladder.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
     {"id":{"name":"spr_wall1","path":"sprites/spr_wall1/spr_wall1.yy",},},
     {"id":{"name":"ts_maze","path":"tilesets/ts_maze/ts_maze.yy",},},
